@@ -3,13 +3,7 @@ this is sample readme file
 This is feature a branch
 this is newly added line
 
-this is a simple line added for testing push
+i added some good
+lines
 
-recheck this hii guys
-
-check new
-
-
-
-
-hi this is shakir
+i am the good developer who worked correctly
