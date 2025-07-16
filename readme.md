@@ -1,15 +1,16 @@
 this is sample readme file
-
-This is feature a branch
+afsasfafa
+This is feature aasdafa branch
 this is newly added line
 
 this is a simple line added for testing push
 
-recheck this hii guys
+this is a bad
+line
+just 
+i added
+for fun
 
-check new
 
-
-
-
-hi this is shakir
+def print_sum(a):
+    print(a*a)
